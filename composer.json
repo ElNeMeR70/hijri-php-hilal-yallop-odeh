@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hijri-php-hilal-yallop-odeh",
+  "description": "Yallop q-Test & Odeh V-Criterion New Crescent Visibility Predictor (محرك معيار يالوب وعودة لرؤية الهلال الفلكية)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
